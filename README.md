@@ -1,1 +1,2 @@
 # Job-Market-Insights-and-Workforce-Analytics-Power-BI-
+Extracted data from MS SQL Server using Python, then merged and appended tables for unified analysis in Power BI. Cleaned inconsistent entries, handled missing values, and restructured fragmented tables to ensure data reliability. Used Power Query to transform and relate disconnected data, enabling integrated and accurate reporting. Built interactive Power BI dashboards to visualize hiring trends, job type distribution, and in-demand skills for strategic workforce planning.
